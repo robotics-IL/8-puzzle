@@ -1,0 +1,6 @@
+5
+No Time Punch
+Clock IN
+Clock OUT
+See Last Punch
+Edit a previous punch

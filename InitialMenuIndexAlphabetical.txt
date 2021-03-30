@@ -1,0 +1,8 @@
+0
+No Initial
+1
+End
+3
+MiniMax
+2
+Time Punch

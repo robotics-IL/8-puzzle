@@ -1,0 +1,6 @@
+0
+No Eight Problem
+1
+Enter Starting Eight Problem
+2
+Random Starting Eight Problem
